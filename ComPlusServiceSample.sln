@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ComPlusServiceSample", "ComPlusServiceSample\ComPlusServiceSample.vbproj", "{8854C0B4-808E-4438-9DC1-23E506CE114E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ComPlusServiceSampleConsole", "ComPlusServiceSampleConsole\ComPlusServiceSampleConsole.vbproj", "{3207D3C1-3546-46C7-A36B-E842C7E0549E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8854C0B4-808E-4438-9DC1-23E506CE114E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8854C0B4-808E-4438-9DC1-23E506CE114E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8854C0B4-808E-4438-9DC1-23E506CE114E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8854C0B4-808E-4438-9DC1-23E506CE114E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3207D3C1-3546-46C7-A36B-E842C7E0549E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3207D3C1-3546-46C7-A36B-E842C7E0549E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3207D3C1-3546-46C7-A36B-E842C7E0549E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3207D3C1-3546-46C7-A36B-E842C7E0549E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F098BF5-77E9-4E12-A58A-CA450BDE18EF}
+	EndGlobalSection
+EndGlobal
